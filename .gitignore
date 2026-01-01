@@ -1,0 +1,10 @@
+*.o
+*.obj
+
+*.out
+*.exe
+*.a
+
+.vscode/
+
+*.pdf
